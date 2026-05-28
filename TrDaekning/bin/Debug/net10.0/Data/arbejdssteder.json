@@ -1,0 +1,29 @@
+[
+  {
+    "id": 101,
+    "navn": "Plejecenter Solsiden",
+    "adresse": "Solsiden 1, 2100 København Ø",
+    "type": "Plejecenter",
+    "lokalafdeling": "København",
+    "breddegrad": 55.7065,
+    "laengdegrad": 12.5616
+  },
+  {
+    "id": 102,
+    "navn": "Børnehuset Regnbuen",
+    "adresse": "Regnbuevej 12, 2300 København S",
+    "type": "Dagtilbud",
+    "lokalafdeling": "København",
+    "breddegrad": 55.7020,
+    "laengdegrad": 12.5616
+  },
+  {
+    "id": 201,
+    "navn": "Plejecenter Skovgården",
+    "adresse": "Skovvej 5, 4000 Roskilde",
+    "type": "Plejecenter",
+    "lokalafdeling": "Roskilde",
+    "breddegrad": 55.6415,
+    "laengdegrad": 12.0878
+  }
+]
